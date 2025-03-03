@@ -21,3 +21,7 @@ In this mentor-led session, you will embark on an exciting journey to develop an
 - **Express.js:** Backend framework for building the RESTful API.
 - **React.js:** Frontend library for building the user interface.
 - **Node.js:** Runtime environment for executing server-side code.
+
+# Milestone 1
+
+* Completed foundation for E-commerce Application
