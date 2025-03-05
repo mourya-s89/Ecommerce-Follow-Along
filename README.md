@@ -22,6 +22,32 @@ In this mentor-led session, you will embark on an exciting journey to develop an
 - **React.js:** Frontend library for building the user interface.
 - **Node.js:** Runtime environment for executing server-side code.
 
-# Milestone 1
+### ** Milestone 1: Laying the Foundation**
 
-* Completed foundation for E-commerce Application
+Initialized the project structure for both frontend and backend.
+
+Installed necessary dependencies for React, Node.js, and Express.
+
+Set up a basic server in **Node.js** using **Express.js**.
+
+Configured **environment variables** for secure credentials.
+
+I
+
+### ** Milestone 2: Structuring the Project & UI Setup**
+
+**Separated frontend and backend folders** for modular development.
+
+Created a **functional login page** in the frontend using React.js.
+
+Installed and configured **Tailwind CSS** for responsive UI design.
+
+##
+
+# ** Milestone 3: Backend Configuration & Database Connection**
+
+Organized the **backend folder structure** for scalability.
+
+Connected the **server to MongoDB** using Mongoose.
+
+Implemented **error-handling middleware** for API stability.
