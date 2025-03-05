@@ -51,3 +51,14 @@ Organized the **backend folder structure** for scalability.
 Connected the **server to MongoDB** using Mongoose.
 
 Implemented **error-handling middleware** for API stability.
+
+
+### ** Milestone 4: User Management & File Handling**
+
+Created the **User Model** in Mongoose to define user data structure.
+
+Developed the **User Controller** to manage user authentication (signup, login).
+
+Implemented **Multer for file handling**, allowing user profile and product image
+
+uploads.
