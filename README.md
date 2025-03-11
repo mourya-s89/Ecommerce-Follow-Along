@@ -66,3 +66,8 @@ uploads.
 ### ** Milestone 5: User Registration & File Handling**
 Created the **sign up page** in React and added code  for signup backend also.
 Added the **sign up page** validtion in (signup,login).
+
+### # Milestone 6:
+
+* added the **password encryption** in backend signup page.
+* added comparision for checking password is correct or not in login backend.
