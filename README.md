@@ -62,3 +62,7 @@ Developed the **User Controller** to manage user authentication (signup, login).
 Implemented **Multer for file handling**, allowing user profile and product image
 
 uploads.
+
+### ** Milestone 5: User Registration & File Handling**
+Created the **sign up page** in React and added code  for signup backend also.
+Added the **sign up page** validtion in (signup,login).
