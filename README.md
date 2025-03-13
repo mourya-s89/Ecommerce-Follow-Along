@@ -71,3 +71,26 @@ Added the **sign up page** validtion in (signup,login).
 
 * added the **password encryption** in backend signup page.
 * added comparision for checking password is correct or not in login backend.
+
+
+### Milestone 7: Login Functionality
+
+In this milestone, the following tasks were achieved:
+
+1. **Implemented Login Endpoint**:
+   - Created a new endpoint `/login` for user authentication.
+   - Accepts user credentials (`email` and `password`).
+
+2. **Password Validation**:
+   - Used `bcrypt` to securely compare hashed passwords.
+   - Ensures user security and data protection.
+
+3. **Error Handling**:
+   - Handled scenarios for:
+     - User not found.
+     - Invalid credentials.
+
+4. **Tested the Endpoint**:
+   - Verified functionality using Postman with various test cases.
+
+---
