@@ -73,24 +73,10 @@ Added the **sign up page** validtion in (signup,login).
 * added comparision for checking password is correct or not in login backend.
 
 
-### Milestone 7: Login Functionality
+### **Milestone 7: Password Decrypt By Using Bcryptjs**
+added the **Password authentication** in backend login page.
+Here we are first getting the hashed password from db searched by email and then comparing the input body password with hashedd password by compare method in bycryptjs.
 
-In this milestone, the following tasks were achieved:
 
-1. **Implemented Login Endpoint**:
-   - Created a new endpoint `/login` for user authentication.
-   - Accepts user credentials (`email` and `password`).
-
-2. **Password Validation**:
-   - Used `bcrypt` to securely compare hashed passwords.
-   - Ensures user security and data protection.
-
-3. **Error Handling**:
-   - Handled scenarios for:
-     - User not found.
-     - Invalid credentials.
-
-4. **Tested the Endpoint**:
-   - Verified functionality using Postman with various test cases.
-
----
+## **Milestone 8: Product Page In Frontend**
+added the **Product Page** in Frontend as a Homepage.
