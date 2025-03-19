@@ -1,7 +1,7 @@
 import React from 'react'
 import { useState } from 'react'
 
-const AddProduct = () => {
+const AddProducts = () => {
     const [noOfImages,setNoOfImages] = useState(new Array(1));
   return (
     <div>
@@ -34,4 +34,4 @@ const AddProduct = () => {
   )
 }
 
-export default AddProduct
+export default AddProducts

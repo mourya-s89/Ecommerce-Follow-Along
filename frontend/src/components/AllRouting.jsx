@@ -3,8 +3,7 @@ import {Route,Routes} from 'react-router-dom'
 import Products from './Products'
 import Login from './Login'
 import Signup from './Signup'
-import AddProduct from './AddProduct'
-
+import AddProducts from './AddProducts'
 const AllRouting = () => {
   return (
     <div>
@@ -12,7 +11,7 @@ const AllRouting = () => {
             <Route path='/' element={<Products />} />
             <Route path='/Login' element={<Login />} />
             <Route path='/Signup' element={<Signup />} />
-            <Route path='/AddProduct' element={<AddProduct />} />
+            <Route path='/AddProducts' element={<AddProducts />} />
         </Routes>
       
     </div>
