@@ -80,3 +80,15 @@ Here we are first getting the hashed password from db searched by email and then
 
 ## **Milestone 8: Product Page In Frontend**
 added the **Product Page** in Frontend as a Homepage.
+
+### Milestone 9: Product Input Form
+- Built a form for adding products, including fields for product title and description.
+- Added functionality for uploading multiple images.
+
+---
+
+## ⚙ Tech Stack
+- Frontend: React, Redux, Tailwind CSS
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Authentication: bcrypt for secure passwords
