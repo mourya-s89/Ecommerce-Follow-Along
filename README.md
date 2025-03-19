@@ -92,3 +92,8 @@ added the **Product Page** in Frontend as a Homepage.
 - Backend: Node.js, Express.js
 - Database: MongoDB
 - Authentication: bcrypt for secure passwords
+
+### **Milestone 10: Created Schema Product Upload**
+created **ProductModel** in backend.
+Created **productRouter** page in backend.
+Handeld file uploads by multer inside middleware multer.
