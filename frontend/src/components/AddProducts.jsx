@@ -3,6 +3,12 @@ import { useState } from 'react'
 
 const AddProducts = () => {
     const [noOfImages,setNoOfImages] = useState(new Array(1));
+    const [productDetails,setProductDetails]=useState({
+        name:"",
+        email:"",
+        password:""
+    });
+    const [productImages,setProductImages]
   return (
     <div>
         <form action="">

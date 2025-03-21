@@ -97,3 +97,7 @@ added the **Product Page** in Frontend as a Homepage.
 created **ProductModel** in backend.
 Created **productRouter** page in backend.
 Handeld file uploads by multer inside middleware multer.
+
+## **Milestone 11: Created Schema Product Upload**
+Created **Home Page** for dynamic products presentation.
+added the **backend** part for handeling products (created endpoint to get products).
