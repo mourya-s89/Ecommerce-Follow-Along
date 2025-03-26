@@ -105,3 +105,7 @@ added the **backend** part for handeling products (created endpoint to get produ
 ## **MIlestone 12: Showing product according to user**
 Created **Product Page** for dynamic products presentatioin according to user mail.
 created backend for specific user products.
+
+## **Milestone 12: Created Product Update**
+Created **Product Update Endpoint** for Updating products.
+Created form for updating data in frontend and created autofill function.
