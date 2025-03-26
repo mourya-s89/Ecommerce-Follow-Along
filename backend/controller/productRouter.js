@@ -1,35 +1,37 @@
-const express = require('express');
-const ProductModel=require('../models/ProductModel')
-const productImages = require('../middleWare/multer')
+const express = require("express");
 
 const productRouter = express.Router();
 
+const productModel = require("../models/productModel");
 
-productRouter.post('/AddProducts', (req,res,next)=>{
+const productImages = require("../middleware/multer");
+
+productRouter.post("/addproduct",async(req,res,next)=>{
     productImages.array("images",6)(req,res,(err)=>{
         if(err){
-            return res.status(500).send({msg:"somethig went wrong while uploading images"})
+            return res.status(500).send({msg:"Something went wrong while uploading images"});
         }
     })
+
 },async(req,res)=>{
-    try{
+    try {
         const {title,description,price} = req.body;
-        if(!title || !description ||!price){
-            return res.status(404).send({msg:"Please add all fields"})
+        if(!title || !description || !price){
+            return res.status(404).send({msg:"Please fill all fields"});
         }
+
         const images = req.files;
         const imageLinkArray = [];
         images.forEach((ele)=>{
             console.log(ele);
         })
-        res.status(200).send({msg:"Product added sucessfully"})
-        
 
+        return res.status(200).send({msg:"Product added sucessfully"});
 
-    }catch(err){
-        return res.status(500).send({msg:"something went wronge",err})
+    } catch (error) {
+        return res.status(500).send({msg:"Something went wrong",error});
     }
 
 })
- 
-module.exports =productRouter;
+
+module.exports = productRouter;

@@ -106,6 +106,11 @@ added the **backend** part for handeling products (created endpoint to get produ
 Created **Product Page** for dynamic products presentatioin according to user mail.
 created backend for specific user products.
 
-## **Milestone 12: Created Product Update**
+## **Milestone 13: Created Product Update**
 Created **Product Update Endpoint** for Updating products.
-Created form for updating data in frontend and created autofill function.
+Created form for updating data in frontend and created autofill function.Createdd
+
+
+## **Milesstone 14: Created Product Delete**
+Created**Product Delete Endpoint** for Updating products.
+Created form for Deleting Product in frontend
