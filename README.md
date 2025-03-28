@@ -114,3 +114,6 @@ Created form for updating data in frontend and created autofill function.Created
 ## **Milesstone 14: Created Product Delete**
 Created**Product Delete Endpoint** for Updating products.
 Created form for Deleting Product in frontend
+
+## **Milestone 14: Created Navbar**
+Created **Navigation Bar** for Navigating between pages.
