@@ -117,3 +117,7 @@ Created form for Deleting Product in frontend
 
 ## **Milestone 15"": Created Navbar**
 Created **Navigation Bar** for Navigating between pages.
+
+## **Milestone 16: Created productDetails page**
+Created **Product Details** for showing full products details in details page.
+Added Add to cart button with quantity selection.
