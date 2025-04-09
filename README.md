@@ -125,3 +125,7 @@ Added Add to cart button with quantity selection.
 ## **Milestone 17:   CRUD for cart**
 Created endpoints in backend **CRUD** for handling cart.
 Handled quantity for product in cart. 
+
+## **Milestone 18: Frontend for cart page**
+Created cart page in frontend.
+Handled cart operations from frontend.
