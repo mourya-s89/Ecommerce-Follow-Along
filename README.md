@@ -121,3 +121,7 @@ Created **Navigation Bar** for Navigating between pages.
 ## **Milestone 16: Created productDetails page**
 Created **Product Details** for showing full products details in details page.
 Added Add to cart button with quantity selection.
+
+## **Milestone 17:   CRUD for cart**
+Created endpoints in backend **CRUD** for handling cart.
+Handled quantity for product in cart. 
