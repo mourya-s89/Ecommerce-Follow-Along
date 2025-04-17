@@ -132,3 +132,12 @@ Handled cart operations from frontend.
 
 ## **Milestone 19: Backend endpoint for cart itemquantity**
 created put request for updating quantity for cart item.
+
+## **Milestone 20:Backend endpoint for UserDetails**
+Created endpoint for userDetails in backend.
+Created user.jsx for userDetails in fronytend.
+
+## **Milestone 21:Created frontend  for address**
+Created route for Add Address Page in frontend.
+created form for adding address.
+stored address using useState Hook.
