@@ -141,3 +141,7 @@ Created user.jsx for userDetails in fronytend.
 Created route for Add Address Page in frontend.
 created form for adding address.
 stored address using useState Hook.
+
+## **MIlestone 22:Created Backend for Address And Attached With Frontend**
+Created backend endpoint for handling address.
+added backend endpoint with frontend.
