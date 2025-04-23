@@ -151,3 +151,9 @@ added backend endpoint with frontend.
 Created placeorder button in Csrt page and Added navigation to select address.
 Created select address page and provided option to select one address.
 Created backend endpoint to sent all address to user.
+
+## **Milestone 24: Worked on address in frontend and backend**
+Displayed All of products in cart.
+Displayed All address in address selection page.
+Displayed total price in cart.
+Added place order button at the bottom.
