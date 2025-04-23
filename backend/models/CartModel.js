@@ -1,3 +1,3 @@
 const mongoose = require('mongoose');
 
-const cartSchema = new schema
+const cartSchema = new schema 

@@ -142,6 +142,12 @@ Created route for Add Address Page in frontend.
 created form for adding address.
 stored address using useState Hook.
 
-## **MIlestone 22:Created Backend for Address And Attached With Frontend**
+## **Milestone 22:Created Backend for Address And Attached With Frontend**
 Created backend endpoint for handling address.
 added backend endpoint with frontend.
+
+
+## **Milestone 23: Worked on address in frontend and backend**
+Created placeorder button in Csrt page and Added navigation to select address.
+Created select address page and provided option to select one address.
+Created backend endpoint to sent all address to user.
