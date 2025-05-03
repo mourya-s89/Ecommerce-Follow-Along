@@ -165,7 +165,10 @@ Added place order button at the bottom.
    - Handled address for the delivery.
 
 
-# Milestone 26 Worked on order backend and email service
+## **Milestone 26 Worked on order backend and email service**
 
    - Implemented mail with nodemailer.
    - Sending order details to user via mail.
+
+## **Milestone 27 worked on frontend for my oreder page**
+Created get request to get request my orders   
