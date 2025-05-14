@@ -170,3 +170,7 @@ Ecommerce-Follow-Along is a full-fledged *E-Commerce Application* built using th
 
 ### **🛠 Milestone 32 Redux implementation**
 ✅ Implemented Redux in frontend.
+
+### **🛠 Milestone 33 Setting up token in cookies**
+✅ Implemented Cookies auth by using cookie-parser npm package.
+✅ Added Cookie by login page.
