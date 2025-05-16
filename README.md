@@ -174,3 +174,6 @@ Ecommerce-Follow-Along is a full-fledged *E-Commerce Application* built using th
 ### **🛠 Milestone 33 Setting up token in cookies**
 ✅ Implemented Cookies auth by using cookie-parser npm package.
 ✅ Added Cookie by login page.
+
+### **🛠 Milestone 33 Setting up token in cookies**
+✅ implemented token and cookies in frontend and backend both.
